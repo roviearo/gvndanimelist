@@ -1,5 +1,5 @@
 import Link from "next/link"
-import Animelist from "../components/AnimeList"
+import Animelist from "@/components/AnimeList"
 import Header from "@/components/AnimeList/Header"
 
 const Home = async () => {
